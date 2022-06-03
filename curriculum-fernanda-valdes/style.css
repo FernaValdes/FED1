@@ -1,0 +1,65 @@
+.back {
+    background-color: white;
+}
+.encabezado {
+    text-align: center; 
+    background-color:#E6E6E6
+    ;
+    height: 188.19px;
+}
+.batman{
+    margin-top: 20.91px;
+}
+h1 {
+    color: #005677
+    ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: center;
+    background-color: #C4C4C4 ;
+    margin: 0%;
+    letter-spacing: 12px;
+    text-transform: uppercase;
+}
+h2 {
+    color: #005677
+    ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+    margin: 0%;
+    letter-spacing: 10px;
+    text-indent: 20px;
+    background-color: #C4C4C4 ;
+    font-style: bold;
+    text-transform: uppercase;
+}
+li {
+    text-decoration-color: #005677
+    ;
+    font-family: 'Times New Roman', Times, serif; 
+    font-style: mixed;
+    font-size: 15px;
+    line-height: 13px;
+    text-align: left;
+    line-height: 1.5em;
+
+}
+.destacado {
+    font-style: italic;
+}
+.prueba {
+    color: white
+    ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 0%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.footer {
+    background-color: #005677 ;
+    align-items: center;
+    text-align: center;
+}
